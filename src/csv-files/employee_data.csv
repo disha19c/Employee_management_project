@@ -1,0 +1,51 @@
+﻿employee_id,employee_name,date_of_joining,manager_id,designation,mobile_no,email,state,city
+1,John Doe,1/1/2022,NULL,CEO,1234567890,john.doe@example.com,Maharashtra,Mumbai
+2,Jane Smith,2/15/2022,1,CTO,2345678901,jane.smith@example.com,Maharashtra,Mumbai
+3,Bob Johnson,3/10/2022,2,Software Engineer,3456789012,bob.johnson@example.com,Maharashtra,Mumbai
+4,Alice Brown,4/5/2022,2,UI/UX Designer,4567890123,alice.brown@example.com,Maharashtra,Mumbai
+5,Charlie Wilson,5/20/2022,1,CFO,5678901234,charlie.wilson@example.com,Maharashtra,Mumbai
+6,Eva Green,6/15/2022,2,Lead Software Engineer,1234567891,eva.green@example.com,Maharashtra,Mumbai
+7,Michael Clark,7/1/2022,2,Software Engineer,2345678912,michael.clark@example.com,Maharashtra,Mumbai
+8,Sophie Turner,8/10/2022,6,Software Engineer,3456789123,sophie.turner@example.com,Maharashtra,Mumbai
+9,Daniel White,9/5/2022,6,Senior Software Engineer,4567891234,daniel.white@example.com,Maharashtra,Mumbai
+10,Olivia Wilson,10/20/2022,1,Chief Marketing Officer,5678912345,olivia.wilson@example.com,Maharashtra,Mumbai
+11,Liam Turner,11/15/2022,10,Marketing Specialist,6789123456,liam.turner@example.com,Maharashtra,Mumbai
+12,Mia Rodriguez,12/1/2022,10,Marketing Specialist,7891234567,mia.rodriguez@example.com,Maharashtra,Mumbai
+13,Noah Harris,1/10/2023,1,Chief Operating Officer,8902345678,noah.harris@example.com,Maharashtra,Mumbai
+14,Ava Miller,2/15/2023,13,Operations Manager,9013456789,ava.miller@example.com,Maharashtra,Mumbai
+15,Jackson Carter,3/20/2023,13,Business Analyst,124567890,jackson.carter@example.com,Maharashtra,Mumbai
+16,Isabella Hall,4/5/2023,14,HR Manager,1235678901,isabella.hall@example.com,Maharashtra,Mumbai
+17,Liam Harris,5/10/2023,14,HR Specialist,2346789012,liam.harris@example.com,Maharashtra,Mumbai
+18,Emma Martin,6/15/2023,13,Finance Manager,3457890123,emma.martin@example.com,Maharashtra,Mumbai
+19,Aiden Turner,7/1/2023,18,Accountant,4568901234,aiden.turner@example.com,Maharashtra,Mumbai
+20,Sophia Davis,8/10/2023,18,Financial Analyst,5679012345,sophia.davis@example.com,Maharashtra,Mumbai
+21,Lucas Scott,9/5/2023,1,Chief Technology Officer,6780123456,lucas.scott@example.com,Maharashtra,Mumbai
+22,Chloe Turner,10/20/2023,21,Software Engineer,7891234567,chloe.turner@example.com,Maharashtra,Mumbai
+23,Ethan White,11/15/2023,21,Software Engineer,8902345678,ethan.white@example.com,Maharashtra,Mumbai
+24,Zoe Johnson,12/1/2023,22,UI/UX Designer,9013456789,zoe.johnson@example.com,Maharashtra,Mumbai
+25,Aiden Adams,1/10/2022,22,UI/UX Designer,124567890,aiden.adams@example.com,Maharashtra,Mumbai
+26,Grace Evans,2/15/2022,1,Chief Financial Officer,1235678901,grace.evans@example.com,Maharashtra,Mumbai
+27,Landon Turner,3/20/2023,26,Finance Manager,2346789012,landon.turner@example.com,Maharashtra,Mumbai
+28,Scarlett Parker,4/5/2021,26,Financial Analyst,3457890123,scarlett.parker@example.com,Maharashtra,Mumbai
+29,Carter Harris,5/10/2020,27,Accountant,4568901234,carter.harris@example.com,Maharashtra,Mumbai
+30,Madison Davis,6/15/2021,27,Accountant,5679012345,madison.davis@example.com,Maharashtra,Mumbai
+31,Henry Scott,7/1/2023,1,Chief Human Resources Officer,6780123456,henry.scott@example.com,Maharashtra,Mumbai
+32,Penelope Wilson,8/10/2022,31,HR Manager,7891234567,penelope.wilson@example.com,Maharashtra,Mumbai
+33,Logan Turner,9/5/2022,31,HR Specialist,8902345678,logan.turner@example.com,Maharashtra,Mumbai
+34,Aria Martin,10/20/2022,32,Recruitment Specialist,9013456789,aria.martin@example.com,Maharashtra,Mumbai
+35,Elijah Harris,11/15/2021,32,Employee Relations Specialist,124567890,elijah.harris@example.com,Maharashtra,Mumbai
+36,Aubrey Taylor,12/1/2023,1,Chief Legal Officer,1235678901,aubrey.taylor@example.com,Maharashtra,Mumbai
+37,Grayson Turner,1/10/2020,36,Legal Counsel,2346789012,grayson.turner@example.com,Maharashtra,Mumbai
+38,Luna Adams,2/15/2021,36,Legal Analyst,3457890123,luna.adams@example.com,Maharashtra,Mumbai
+39,Mason White,3/20/2023,37,Contracts Manager,4568901234,mason.white@example.com,Maharashtra,Mumbai
+40,Willow Wilson,4/5/2022,37,Compliance Specialist,5679012345,willow.wilson@example.com,Maharashtra,Mumbai
+41,Caleb Turner,5/10/2023,1,Chief Sales Officer,6780123456,caleb.turner@example.com,Maharashtra,Mumbai
+42,Nora Scott,6/15/2021,41,Sales Manager,7891234567,nora.scott@example.com,Maharashtra,Mumbai
+43,Eli Davis,7/1/2020,41,Sales Representative,8902345678,eli.davis@example.com,Maharashtra,Mumbai
+44,Hazel Johnson,8/10/2023,42,Key Account Manager,9013456789,hazel.johnson@example.com,Maharashtra,Mumbai
+45,Avery Harris,9/5/2022,42,Sales Support Specialist,124567890,avery.harris@example.com,Maharashtra,Mumbai
+46,Jackson Turner,10/20/2021,1,Chief Customer Officer,1235678901,jackson.turner@example.com,Maharashtra,Mumbai
+47,Amelia Martin,11/15/2021,46,Customer Service Manager,2346789012,amelia.martin@example.com,Maharashtra,Mumbai
+48,Sebastian Wilson,12/1/2021,46,Customer Support Specialist,3457890123,sebastian.wilson@example.com,Maharashtra,Mumbai
+49,Isaac Scott,1/10/2022,47,Customer Success Specialist,4568901234,isaac.scott@example.com,Maharashtra,Mumbai
+50,Riley Adams,2/15/2020,47,Technical Support Specialist,5679012345,riley.adams@example.com,Maharashtra,Mumbai
